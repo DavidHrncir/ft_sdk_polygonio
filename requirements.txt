@@ -1,3 +1,1 @@
 pandas==2.2.3
-requests
-fivetran_connector_sdk
